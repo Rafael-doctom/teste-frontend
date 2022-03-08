@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    font-family: Helvetica, Sans-Serif;
+}
+
+:root {
+    --bgNavbar: #ffffff;
+    --bgListItem: #ECF0F1;
+}
+
+ul, li, a{
+    list-style:none;
+    text-decoration: none;
+    text-transform: none;
+}
+
+i{
+    /* padding-left:0.55rem; */
+    margin: 0 0.45rem;
+}
+
